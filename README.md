@@ -18,7 +18,7 @@ https://youtu.be/BS6O0zOGX4E
 https://goo.gl/jPtWNt
 
 ## Reference Implementations
-https://github.com/nlintz/TensorFlow-Tutorials/
-https://github.com/golbin/TensorFlow-ML-Exercises
-https://github.com/FuZer/Study_TensorFlow
+https://github.com/nlintz/TensorFlow-Tutorials/ <br>
+https://github.com/golbin/TensorFlow-ML-Exercises <br>
+https://github.com/FuZer/Study_TensorFlow <br>
 https://github.com/fchollet/keras/tree/master/examples
