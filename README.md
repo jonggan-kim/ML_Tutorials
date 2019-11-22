@@ -11,6 +11,9 @@ https://github.com/hunkim/DeepLearningZeroToAll
 # Tensorflow Basic Tutorial Labs (Dr Sunghun Kim) 
 https://www.youtube.com/user/hunkims
 
+# TensorFlow basic tutorials (in Korean) Youtube 
+https://youtu.be/BS6O0zOGX4E
+
 # Lab slides(Dr Sunghun Kim)
 https://goo.gl/jPtWNt
 
