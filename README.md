@@ -2,6 +2,9 @@
 
 https://github.com/sjchoi86/dl_tutorials_10weeks.git
 
+### CNN In Brief (4 Architectures)
+<img src="images/CNNinBrief.png">
+
 # Tensorflow (SJ Choi)
 https://github.com/sjchoi86/Tensorflow-101
 
