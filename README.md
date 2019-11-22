@@ -1,2 +1,3 @@
 # ML_Tutorials
-ML Tutorials
+
+https://github.com/sjchoi86/dl_tutorials_10weeks.git
